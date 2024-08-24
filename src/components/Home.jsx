@@ -35,11 +35,11 @@ function Home() {
               I am a recent graduate with a degree in Software Engineering,
               currently focused on web development. My academic background and
               practical experience have equipped me with a strong foundation in
-              both front-end and back-end technologies. 
-              I am proficient in HTML,CSS, JavaScript, and have hands-on experience with frameworks such
-              as React and Angular. As I begin my professional journey, I am
+              both front-end and back-end technologies. <br />
+              I am proficient in HTML, CSS, JavaScript, and have hands-on experience with frameworks such
+              as React . As I begin my professional journey, I am
               eager to apply my knowledge to real-world projects, contributing
-              to the creation of efficient and user-friendly web applications. 
+              to the creation of efficient and user-friendly web applications. <br />
               I am passionate about continuous learning and am committed to
               staying updated with the latest industry trends and best
               practices. My goal is to develop innovative solutions that enhance

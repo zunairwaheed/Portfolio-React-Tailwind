@@ -12,25 +12,25 @@ function Portfolio() {
       id: 1,
       logo: reactnative,
       name: "Event Hub",
-      text: "This tech stack enables seamless interaction between customers and event planners, ensuring efficient management and selection of event services based on ratings and reviews",
+      text: "Event Hub uses React Native, Python, Firebase, and VS Code to create a seamless interaction between customers and event planners, enabling efficient event service management and selection based on ratings and reviews.",
     },
     {
       id: 2,
       logo: mern,
       name: "E-Commerce",
-      text: ".The project involved creating a user-friendly interface with React.js.I designed and implemented RESTful APIs with Node.js and Express.js to handle user authentication, data validation, managed a MongoDB database to store and retrieve application data",
+      text: "I developed a dynamic web application using the MERN stack. I created a user-friendly interface with React.js, implemented RESTful APIs for authentication and data validation, and managed a MongoDB database for storing and retrieving data.",
     },
     {
       id: 3,
       logo: tailwind,
       name: "Portfolio",
-      text: " I developed a React-based and tailwind portfolio website showcasing my skills, projects, and resume for a dynamic and interactive online presence",
+      text: " I developed a portfolio usung ReactJs and Tailwind CSS website showcasing my skills, projects, experience and contact form for a dynamic and interactive online presence. Implemented responsive design for an optimal user experience",
     },
     {
       id: 4,
       logo: javascript,
       name: "Form Validator",
-      text: "This is javascript code for validate the form whether all fields are filled correctly or not.",
+      text: "This is javascript website for validate the form whether all fields are filled correctly or not. Its not submit form till form is completely filled. Implemented responsive design and smooth navigation for an optimal user experience",
     },
   ];
   return (
@@ -55,7 +55,7 @@ function Portfolio() {
               <div className="px-2 text-gray-700">{text}</div>
             </div>
             <div className="px-6 py-4 space-x-3 justify-around">
-              <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">Video</button>
+              <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded ">Video</button>
               <button className="bg-green-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">Source Code</button>
             </div>
           </div>

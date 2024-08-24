@@ -14,7 +14,7 @@ function About() {
         <div>
           <h1 className="text-green-600 text-xl font-semibold">Education</h1>
           <span className="text-justify">
-            Bachelors of Science in Computer Sciences | University Of MAnagement
+            Bachelors of Science in Computer Sciences | University Of Management
             And Technology, Lahore | 2020-2024
           </span>
           <br />
@@ -23,7 +23,7 @@ function About() {
             Skills & Expertise
           </h1>
           <span className="text-justify">
-            MERN Stack developer |Experienced with software Tools and
+            MERN Stack developer | Experienced with software Tools and
             Technologies | Problem-Solving Skills.
           </span>
           <br />
